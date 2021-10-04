@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AL-HSIV
+- 👋 Hi, I’m Vishal
 - 👀 I’m interested in Brain Mapping.
 - 🌱 I’m currently learning Machine learning. 
 - 💞️ I’m looking to collaborate on ...
